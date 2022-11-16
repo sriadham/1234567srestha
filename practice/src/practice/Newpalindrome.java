@@ -6,7 +6,7 @@ public class Newpalindrome {
 
 	public static void main(String[] args) {
 
-		// to count no of digits in number
+		// to count no of digits in number123
 		/*
 		 * after creating demo,demo1branches
 		 * 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----gitrep this is a token password

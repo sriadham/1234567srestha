@@ -8,8 +8,8 @@ public class Newpalindrome {
 
 		// to count no of digits in number
 		/*
-		 * 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----gitrep int no=745282547; int
-		 * count=0; while(no>0) { no= no/10; count++; }
+		 * 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----gitrep this is a token password
+		 * int no=745282547; int count=0; while(no>0) { no= no/10; count++; }
 		 * System.out.println("Number of digit from a given number is  "+ count);
 		 */
 
